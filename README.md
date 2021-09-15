@@ -11,7 +11,7 @@
 
       2. Extract the compressed folder.
 
-      4. Run *ProgrammingProblem.exe* from inside the folder. 
+      4. Run ProgrammingProblem.exe from inside the folder. 
 
      https://downgit.github.io/#/home?url=https://github.com/Jake-Hann/abletech-programming-problem/tree/main/programming_problem_console_app
 
